@@ -56,7 +56,7 @@ If you are looking forward to contributing:
 git checkout -b new_branch_name
 ```
 
-Make your changes to new branch and then, push it to your forked repository.
+djnjsfk
 
 And you are ready to make pull request.
 
